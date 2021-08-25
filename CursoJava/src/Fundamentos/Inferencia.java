@@ -14,6 +14,6 @@ public class Inferencia {
 		System.out.println(b);
 		
 		// Neste caso, as duas variaves sao do tipo double, mesmo que nao tenha 
-		// Indicado especificamente na segunda variavel, o java ira fazer isso automaticamente
+		// Indicado especificamente na segunda variavel, o java ira fazer isso automaticamenteM
 	}
 }
