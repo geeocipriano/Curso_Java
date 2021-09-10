@@ -8,5 +8,6 @@ public class DataTeste {
 		data.ano = 1996;
 		
 		System.out.println(data.dia + "/" + data.mes + "/" + data.ano);
+		System.out.println(data.dataFormatada());
 	}
 }
