@@ -7,5 +7,10 @@ public class ProdutoTeste {
 		p1.desconto = 0.1;
 		p1.preco = 500;
 		System.out.println("Seu produto é " + p1.nome + " e custa " + p1.preco);
+		
+		
+		//Aplicando o Metodo
+		double precoFinal = p1.precoComDesconto();
+		System.out.printf("Preço final do produto é "+ precoFinal);
 	}
 }
